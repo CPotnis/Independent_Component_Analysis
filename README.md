@@ -5,7 +5,6 @@
 This project requires **Python 2.7 or 3+** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
-wave
 - [Pandas](http://pandas.pydata.org)
 - [matplotlib](http://matplotlib.org/)
 - [seaborn](https://seaborn.pydata.org/)
